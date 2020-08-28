@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-Coin/Pods-Coin-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/ImageViewer.swift/ImageViewer_swift.framework
+${BUILT_PRODUCTS_DIR}/Keyboardy/Keyboardy.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/Nuke/Nuke.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework

@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.2.1)
+  - ImageViewer.swift (3.0.12):
+    - SDWebImage
+  - Keyboardy (0.2.7)
+  - MBProgressHUD (1.2.0)
+  - Nuke (8.4.1)
+  - SDWebImage (5.8.3):
+    - SDWebImage/Core (= 5.8.3)
+  - SDWebImage/Core (5.8.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - ImageViewer.swift (~> 3.0)
+  - Keyboardy
+  - MBProgressHUD
+  - Nuke (~> 8.4.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ImageViewer.swift
+    - Keyboardy
+    - MBProgressHUD
+    - Nuke
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  ImageViewer.swift: d4769c57ff8aef6da7e01bb9283f8554469b2498
+  Keyboardy: 5fee785baf2bc8fa95896a31d88b5f49488f839e
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  Nuke: d780e3507a86b86c589ab3cc5cd302d5456f06fb
+  SDWebImage: 112503ec94a5a2a41869503844a15e8d8f1ead5c
+
+PODFILE CHECKSUM: 1d0fad6e84d428a52ff182e441d7f79acbf3e2d3
+
+COCOAPODS: 1.9.3
